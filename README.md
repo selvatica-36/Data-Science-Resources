@@ -33,3 +33,6 @@
    
 ## SQL: Queries & Optimisation
 1. [12 Tips for Optimizing SQL Queries for Faster Performance](https://medium.com/learning-sql/12-tips-for-optimizing-sql-queries-for-faster-performance-8c6c092d7af1)
+
+## Exploratory Data Analysis
+1. [Missing Data: Five Practical Guidelines](https://journals.sagepub.com/stoken/default+domain/10.1177/1094428114548590/full)
