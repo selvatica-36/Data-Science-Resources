@@ -10,6 +10,7 @@
 3. [DataInterview Subscription: Wonderful, worth it!](https://www.datainterview.com)
 4. [Udemy: A/B Testing in Python. Good overview, not as good as DataInterview](https://www.udemy.com/course/ab-testing-in-python/learn/lecture/31867558?start=330#overview)
 5. [A/B testing datasets - Stack Exchange](https://opendata.stackexchange.com/questions/6788/where-can-i-get-a-sample-dataset-for-a-b-split-testing)
+6. [NeurIPS AB Testing Datasets](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/274ad4786c3abca69fa097b85867d9a4-Paper-round2.pdf)
 
 ## Marketing Analytics: Holdout Testing and Customer Segmentation
 1. [What Is A Holdout Test in Marketing?](https://www.measured.com/faq/holdout-test/)
