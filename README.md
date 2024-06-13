@@ -9,6 +9,7 @@
 2. [Embrace Overlapping A/B Tests and Avoid the Dangers of Isolating Experiments](https://medium.com/statsig/embracing-overlapping-a-b-tests-and-the-danger-of-isolating-experiments-cb0a69e09d3)
 3. [DataInterview Subscription: Wonderful, worth it!](https://www.datainterview.com)
 4. [Udemy: A/B Testing in Python. Good overview, not as good as DataInterview](https://www.udemy.com/course/ab-testing-in-python/learn/lecture/31867558?start=330#overview)
+5. [A/B testing datasets - Stack Exchange](https://opendata.stackexchange.com/questions/6788/where-can-i-get-a-sample-dataset-for-a-b-split-testing)
 
 ## Marketing Analytics: Holdout Testing and Customer Segmentation
 1. [What Is A Holdout Test in Marketing?](https://www.measured.com/faq/holdout-test/)
@@ -30,6 +31,9 @@
 3. [Machine Learning Fundamentals Handbook – Key Concepts, Algorithms, and Python Code Examples](https://www.freecodecamp.org/news/machine-learning-handbook/#chapter-1-what-is-machine-learning)
 4. [A Beginner’s Guide to Regression Analysis in Machine Learning](https://towardsdatascience.com/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf)
 5. [Classification in Machine Learning: An Introduction](https://www.datacamp.com/blog/classification-machine-learning)
+
+## Portfolio Building
+1. [Datasets for Projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
    
 ## SQL: Queries & Optimisation
 1. [12 Tips for Optimizing SQL Queries for Faster Performance](https://medium.com/learning-sql/12-tips-for-optimizing-sql-queries-for-faster-performance-8c6c092d7af1)
