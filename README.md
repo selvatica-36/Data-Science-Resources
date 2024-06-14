@@ -12,6 +12,8 @@
 5. [A/B testing datasets - Stack Exchange](https://opendata.stackexchange.com/questions/6788/where-can-i-get-a-sample-dataset-for-a-b-split-testing)
 6. [NeurIPS AB Testing Datasets and Information](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/274ad4786c3abca69fa097b85867d9a4-Paper-round2.pdf)
 7. [AB testing with Power BI](https://datakuity.com/2020/09/29/ab-testing-with-power-bi/)
+8. [3 ways of doing AB tests Kaggle](https://www.kaggle.com/code/pavelaverin/three-ways-of-doing-a-b-tests)
+9. [AB summary](https://ubc-stat.github.io/stat301book/ch01_abTesting.html)
 
 ## Marketing Analytics: Holdout Testing and Customer Segmentation
 1. [What Is A Holdout Test in Marketing?](https://www.measured.com/faq/holdout-test/)
