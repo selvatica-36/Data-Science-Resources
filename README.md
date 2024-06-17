@@ -14,7 +14,10 @@
 7. [AB testing with Power BI](https://datakuity.com/2020/09/29/ab-testing-with-power-bi/)
 8. [3 ways of doing AB tests Kaggle](https://www.kaggle.com/code/pavelaverin/three-ways-of-doing-a-b-tests)
 9. [AB summary](https://ubc-stat.github.io/stat301book/ch01_abTesting.html)
-10. [Fantastic Medium article!](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
+10. [The Math behind A/B Testing - Fantastic Medium article!](https://towardsdatascience.com/the-math-behind-a-b-testing-with-example-code-part-1-of-2-7be752e1d06f)
+11. [Common Mistakes During A/B Testing](https://towardsdatascience.com/common-mistakes-during-a-b-testing-bdb9eefdc7f0)
+12. [How Not To Run an A/B Test - Evan Miller 2010](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+13. Udacity courses
 
 ## Marketing Analytics: Holdout Testing and Customer Segmentation
 1. [What Is A Holdout Test in Marketing?](https://www.measured.com/faq/holdout-test/)
