@@ -36,6 +36,8 @@
 3. [Machine Learning Fundamentals Handbook – Key Concepts, Algorithms, and Python Code Examples](https://www.freecodecamp.org/news/machine-learning-handbook/#chapter-1-what-is-machine-learning)
 4. [A Beginner’s Guide to Regression Analysis in Machine Learning](https://towardsdatascience.com/a-beginners-guide-to-regression-analysis-in-machine-learning-8a828b491bbf)
 5. [Classification in Machine Learning: An Introduction](https://www.datacamp.com/blog/classification-machine-learning)
+6. [Top 10 Machine Learning Interview Questions and Answers (2024)](https://365datascience.com/career-advice/job-interview-tips/machine-learning-interview-questions-and-answers/#2)
+7. [Data leakage in ML](https://www.javatpoint.com/data-leakage-in-machine-learning)
 
 ## Portfolio Building
 1. [Datasets for Projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
